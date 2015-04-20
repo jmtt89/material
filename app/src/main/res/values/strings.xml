@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoMaterial</string>
+
+
+    <string name="title_inbox">Inbox</string>
+    <string name="title_subscriptions">Subscriptions</string>
+    <string name="title_geofences">GeoFences</string>
+    <string name="title_beacons">Beacons</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
